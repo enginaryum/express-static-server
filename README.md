@@ -3,7 +3,7 @@ Using Express.js as static file server
 
 ---
 
-Using Express.js as static file server
+
 Let’s say we are in a situation where we don’t want our back-end service to be busy with static file requests. In Ynot Partners, software development company that I co-founded we had lots of situations like this. So we came up with a solution:
 Separate containers for back-end service and static file server.
 
